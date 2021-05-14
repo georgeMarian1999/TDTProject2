@@ -1,0 +1,3 @@
+username,password,firstuser,firstpass
+george.marian@stud.ubbcluj.ro,Aa#123456,lhdemo,20LHdemo21!
+"https://" + "lhdemo" + ":" + "20LHdemo21!" + "@" +"lighthouse-demo.evozon.com/login"
